@@ -1,0 +1,18 @@
+public class Main
+{
+	public static void main(String[] args) {
+    // Varibles
+		string name = "RIDHIKA";
+		int age = 28;
+		string neighbour = "AKKU";
+		string friend = "neighbour"; 
+    // Java types
+		byte age = 30;
+		int phone = 1234567890;
+		long phone2 = 12345678900L;
+		float pi = 3.14F;
+		char letter ='@';
+		boolean isAdult = true;
+	
+	} 
+}
